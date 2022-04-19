@@ -1,0 +1,23 @@
+body{
+    background-image: url(./tablesuhu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.container{
+    text-align: center;
+}
+.input{
+    font-size: 50px;
+    color:white;
+    margin: 15px;
+    text-align: center;
+    background-color: transparent;
+}
